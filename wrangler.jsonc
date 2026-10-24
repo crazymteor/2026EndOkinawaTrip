@@ -1,0 +1,8 @@
+jsonc
+{
+  "name": "2026endokinawatrip",
+  "compatibility_date": "2026-10-24",
+  "assets": {
+    "directory": "./public"
+  }
+}
