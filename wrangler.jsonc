@@ -1,7 +1,6 @@
-jsonc
 {
   "name": "2026endokinawatrip",
-  "compatibility_date": "2026-10-24",
+  "compatibility_date": "（保留原本的日期）",
   "assets": {
     "directory": "./public"
   }
